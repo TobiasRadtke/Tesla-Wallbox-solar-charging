@@ -7,7 +7,7 @@ Therefor you need a adapter like this:https://www.ebay.de/itm/TTL-RS485-Adapter-
 The esp8266 also hosts a webserver which displays everything.
 Once you´ve uploaded the sketch, the esp opens an acess point.
 At 192.168.4.1, there you can enter your wifi credentials and the ip Adress and port of your solaredge inverter.
-I know the code isnt perfect, but I hope it still helps someone.
+I know the code isnt perfect, but I hope it helps someone.
 I don´t currently have time to write a full explanation,but if you have any questions or ideas just let me know.
 Special thanks to @dracoventions, https://github.com/dracoventions/TWCManager
 for his detailted documentation on the wallconnectors´s protocoll.
